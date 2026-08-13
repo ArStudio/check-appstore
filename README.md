@@ -49,7 +49,7 @@ python3 --version
 Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ArStudio/check-appstore.git
+git clone https://github.com/envifood/check-appstore.git
 cd check-appstore
 ```
 
